@@ -1,0 +1,405 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: rgb(84, 84, 84);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 30px;
+}
+
+.location a{
+    text-decoration: none;
+    color: white;
+}
+
+.call a{
+    text-decoration: none;
+    color: white;
+}
+
+span{
+    color: orange;
+}
+
+.fa-solid{
+    color: orange;
+}
+
+.navbar1{
+    background-color: rgb(143, 153, 240);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1200px;
+    height:20px;
+    padding: 40px;   
+}
+
+.name a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    color: black;
+    font-size: 12px;
+}
+
+.main{
+    background: url(/Images/pm_1755140674841_cmp~3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-color: rgb(157, 156, 156);
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.edit1{
+    color: orange;
+}
+
+.edit4{
+    color: aliceblue;
+}
+
+.edit2{
+    background-color: transparent;
+    color: rgb(221, 218, 218);
+    padding: 7px;
+    margin: 10px;
+    width: 100px;
+    border-color: rgb(168, 167, 167);
+    font-size: smaller;
+}
+
+.edit3{
+    background-color: orange;
+    color: rgb(31, 30, 30);
+    padding: 9px;
+    margin: 10px;
+    width: 110px;
+    border: none;
+}
+
+.attribute{
+    background-color: rgb(218, 217, 216);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 350px;
+    width: 1220px;
+    padding: 30px;
+    
+}
+
+.text1{
+    width: 40%;
+    text-align: center;
+    font-size: small;
+    padding-right: 40px;
+    margin-left: 80px;
+    border-right: 1px solid gray;
+}
+
+.text2{
+    width: 40%;
+    text-align: center;
+    margin-top: 20px;
+    font-size: small;
+    border-right: 1px solid gray;
+}
+
+.text3{
+    width: 40%;
+    text-align: center;
+    font-size: small;
+    padding-left: 40px;
+    margin-right: 80px;
+    
+}
+
+h2{
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+#hr1{
+    border: none;
+    border-top: 3px solid orange;
+    width: 70px;
+    margin: auto;
+}
+
+.services{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 60vh;
+}
+
+.services1{
+    width: 250px;  
+}
+
+.services1 img{
+    width: 100%;
+    height: 200px;
+}
+
+.tittle{
+    text-align: center;
+}
+
+.partnership{
+    background-color: rgb(63, 63, 63);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+    width: 1220px;
+    padding: 30px;  
+}
+
+.numbers{
+    color: aliceblue;
+    margin-top: 40px;
+}
+
+.num1{
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+
+.num2{
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+
+.num3{
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+
+.num4{
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+
+.subscript1{
+    font-weight: 1000px;
+    font-size: large;
+}
+
+.subscript2{
+    font-weight: 1000px;
+    font-size: large;
+}
+
+h5{
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+#hr2{
+    border: none;
+    border-top: 3px solid orange;
+    width: 70px;
+    margin: auto;
+}
+
+.services2 img{
+    width: 100%;
+    height: 280px;
+}
+
+.consultation{
+    background-color: rgb(63, 63, 63);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 250px;
+    width: 1250px;
+    padding: 10px;  
+
+}
+
+#hr3{
+    border: none;
+    border-top: 3px solid orange;
+    width: 70px;
+}
+
+.light1{
+    color: orange;
+}
+
+.consultation2{
+    background-color: aliceblue;
+    width: 640px;
+    padding: 50px;
+    margin-right: 150px;
+}
+
+.light2{
+    color: white;
+}
+
+.consultation1{
+    margin-left: 60px;
+}
+
+.job{
+    background-color: rgb(216, 216, 216);
+    border: none;
+    width: 200px;
+    padding: 10px;
+}
+
+.edit5{
+    background-color: rgb(212, 211, 211);
+    border: none;
+    width: 100px;
+    padding: 10px;
+    font-weight: 600;
+}
+
+#hr1{
+    width: 70px;
+    text-align: left;
+}
+
+input[type="text"],input[type="name"],input[type="phone"]{
+    background-color: rgb(212, 211, 211);
+    border: none;
+    width: 180px;
+    padding: 10px;
+
+}
+.name5{
+    background-color: rgb(254, 254, 254);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1190px;
+    padding: 40PX;
+    height: 100px;
+}
+
+.hot{
+    background-color: rgb(63, 63, 63);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 250px;
+    width: 1250px;
+    padding: 10px;  
+
+}
+
+.hot1{
+    margin-left: 150px;
+}
+
+.hot2{
+    margin-left: 220px;
+    color: white;
+}
+
+.hot3{
+    margin-top: 100px;
+    margin-right: 80px;
+    color: white;
+}
+
+.hot{
+    margin-right: 60px;
+}
+
+.hotline1{
+    font-size: medium;
+    color: white;
+}
+
+.hotline2{
+    font-size: medium;
+    text-align: left;
+    color: white;
+}
+
+.hotline3{
+    color: white;
+}
+
+.hot{
+    color: white;
+}
+
+#hr3{
+    border: none;
+    border-top: 3px solid orange;
+    width: 70px;
+}
+
+#hr4{
+    border: none;
+    border-top: 3px solid orange;
+    width: 70px;
+}
+
+.conclude{
+    background-color: rgb(27, 26, 26);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1270px;
+    height: 30px;
+}
+
+.conclusion2{
+    margin-left: 450px;
+    border-right: 1px solid gray;
+    color: white;
+
+}
+
+.conclusion3{
+    margin-right: 200px;
+    color: white;
+    
+}
+
+.conclusion1{
+    margin-left: 100px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
