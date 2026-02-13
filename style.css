@@ -12,6 +12,10 @@
     height: 30px;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .location a{
     text-decoration: none;
     color: white;
@@ -35,7 +39,7 @@ span{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1200px;
+    width: 93.7%;
     height:20px;
     padding: 40px;   
 }
@@ -102,7 +106,7 @@ span{
     justify-content: space-around;
     align-items: center;
     height: 350px;
-    width: 1220px;
+    width: 95.2%;
     padding: 30px;
     
 }
@@ -172,7 +176,7 @@ h2{
     justify-content: space-around;
     align-items: center;
     height: 150px;
-    width: 1220px;
+    width: 95.2%;
     padding: 30px;  
 }
 
@@ -239,7 +243,7 @@ h5{
     justify-content: space-around;
     align-items: center;
     height: 250px;
-    width: 1250px;
+    width: 98.4%;
     padding: 10px;  
 
 }
@@ -297,11 +301,11 @@ input[type="text"],input[type="name"],input[type="phone"]{
 
 }
 .name5{
-    background-color: rgb(254, 254, 254);
+    background-color: rgb(250, 247, 247);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1190px;
+    width: 93.7%;
     padding: 40PX;
     height: 100px;
 }
@@ -312,7 +316,7 @@ input[type="text"],input[type="name"],input[type="phone"]{
     justify-content: space-around;
     align-items: center;
     height: 250px;
-    width: 1250px;
+    width: 98.4%;
     padding: 10px;  
 
 }
@@ -372,7 +376,7 @@ input[type="text"],input[type="name"],input[type="phone"]{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1270px;
+    width: 100%;
     height: 30px;
 }
 
